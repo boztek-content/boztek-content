@@ -16,6 +16,12 @@ title = "Some basic page"
 
 {{< vimeo 146022717 >}}
 
-<span style="font-size: 1rem;">Some image:</span>
+### Some image:
 
-![](/uploads/2017/06/06/57041529-zoidberg-wallpapers.jpg)
+<img src="/uploads/2017/06/06/57041529-zoidberg-wallpapers.jpg" alt="" class="">
+
+### Some tweet:
+
+{{< tweet 666616452582129664 >}}
+
+Blah blah.
