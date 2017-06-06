@@ -4,7 +4,7 @@ comments = true
 date = "2017-06-06T14:46:52Z"
 description = ""
 featured = false
-files = ["/uploads/2017/06/06/Undergraduate texts in mathematics Lindsay N Childs eds-A Concrete Introduction to Higher Algebra-Springer-Verlag New York 2010-1.pdf"]
+files = ["/uploads/2017/06/06/Quick Start Guide - John Schember.epub"]
 image = ""
 menu = ""
 share = true
@@ -16,5 +16,7 @@ type = "page"
 +++
 
 
-dang
+dangfdaf
+
+![](/uploads/2017/06/06/Quick%20Start%20Guide%20-%20John%20Schember.epub)
 
