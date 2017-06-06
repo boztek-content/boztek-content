@@ -3,7 +3,6 @@ author = ""
 comments = true
 date = "2017-06-06T12:08:16+00:00"
 description = ""
-draft = true
 featured = true
 image = ""
 menu = ""
