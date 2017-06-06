@@ -1,4 +1,4 @@
-languageCode = "en-us"
-title = "My New Hugo Site"
 baseURL = "https://boztek-content.github.io/"
+languageCode = "en-us"
 theme = "hugo-theme-bleak"
+title = "My New Hugo Site"

@@ -12,8 +12,6 @@ title = "About"
 type = "page"
 
 +++
-
-
 ## About this site
 
 Forestry test.
