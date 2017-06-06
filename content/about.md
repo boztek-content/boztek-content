@@ -18,8 +18,8 @@ type = "page"
 
 Forestry test.
 
-Can preview changes before publishing?
+**Can preview changes before publishing?**
 
 1. <span style="font-size: 1rem;">Can have remote admin?</span>
-1. <span style="font-size: 1rem;">yes?</span>
 
+1. <span style="font-size: 1rem;">yes?</span>
