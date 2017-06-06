@@ -4,7 +4,7 @@ comments = true
 date = "2017-06-06T14:46:52Z"
 description = ""
 featured = false
-files = ["/uploads/2017/06/06/cover.jpg", "/uploads/2017/06/06/Quick Start Guide - John Schember.epub"]
+files = ["/content/files/paper-reading.pdf", "/uploads/2017/06/06/cover.jpg", "/uploads/2017/06/06/_EA_RustProgrammingLanguage_04072017.pdf", "/uploads/2017/06/06/Quick Start Guide - John Schember.epub"]
 image = ""
 menu = ""
 share = true
@@ -14,9 +14,4 @@ title = "Boris"
 type = "page"
 
 +++
-
-
-dangfdaf
-
-![](/uploads/2017/06/06/Quick%20Start%20Guide%20-%20John%20Schember.epub)
-
+Link to a [file](/uploads/2017/06/06/_EA_RustProgrammingLanguage_04072017.pdf).
