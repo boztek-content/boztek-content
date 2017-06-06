@@ -14,7 +14,7 @@ title = "Some basic page"
 +++
 ## Some content
 
-<iframe width="100%" height="auto" src="https://player.vimeo.com/video/146022717" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
+<iframe width="100%" height="480px" src="https://player.vimeo.com/video/146022717" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
 
 <span style="color: rgb(40, 40, 40); font-size: 1.5em; word-spacing: 0.5px;">Some image:</span>
 
