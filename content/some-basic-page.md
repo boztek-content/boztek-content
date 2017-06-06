@@ -22,4 +22,4 @@ title = "Some basic page"
 
 ### <span style="color: rgb(25, 25, 25); font-size: 1rem;">Blah blah.</span>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mirage v0.3.3 is out, with support for Polymorphic associations and auto-discovery of Ember Data models&nbsp;<a href="https://t.co/bzbhkjIECV">https://t.co/bzbhkjIECV</a> <a href="https://twitter.com/hashtag/EmberJS?src=hash">#EmberJS</a></p>— Sam Selikoff (@samselikoff) <a href="https://twitter.com/samselikoff/status/871868122764128260">June 5, 2017</a></blockquote> <script type="null"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Compiled a community wishlist for the React team. Won’t make any promises—we have to balance our priorities—but will look at some of those. <a href="https://t.co/NI0bflf1M8">pic.twitter.com/NI0bflf1M8</a></p>&mdash; Dan Abramov (@dan_abramov) <a href="https://twitter.com/dan_abramov/status/871769329079025664">June 5, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
