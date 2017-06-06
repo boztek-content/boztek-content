@@ -12,7 +12,7 @@ tags = ["tag1", "tag2"]
 title = "Second post"
 type = ""
 [menu.main]
-weight = 1
+weight = 2
 
 +++
 

@@ -10,6 +10,8 @@ slug = "about"
 tags = ["tag2"]
 title = "About"
 type = "page"
+[menu.main]
+weight = 2
 
 +++
 ## About this site
