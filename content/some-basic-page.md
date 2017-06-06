@@ -4,11 +4,16 @@ comments = true
 date = "2017-06-06T12:08:16+00:00"
 description = ""
 draft = true
-featured = false
+featured = true
 image = ""
+menu = ""
 share = true
-slug = "post-title"
-tags = ["tag1", "tag2"]
+slug = "basic-page"
+tags = []
 title = "Some basic page"
 
 +++
+
+
+![](/uploads/2017/06/06/57041529-zoidberg-wallpapers.jpg)
+
