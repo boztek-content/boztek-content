@@ -14,10 +14,8 @@ title = "Some basic page"
 +++
 ## Some content
 
-Some iframe:
+{{< vimeo 146022717 >}}
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/MhkGQAoc7bc" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
-
-Some image:
+<span style="font-size: 1rem;">Some image:</span>
 
 ![](/uploads/2017/06/06/57041529-zoidberg-wallpapers.jpg)
