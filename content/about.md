@@ -7,11 +7,16 @@ featured = false
 image = ""
 share = true
 slug = "about"
-tags = ["tag1", "tag2"]
+tags = ["tag2"]
 title = "About"
 type = "page"
 
 +++
+
+
 ## About this site
 
 Forestry test.
+
+Can preview changes before publishing?
+
