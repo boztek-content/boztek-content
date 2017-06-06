@@ -25,3 +25,5 @@ title = "Some basic page"
 {{< tweet 666616452582129664 >}}
 
 Blah blah.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mirage v0.3.3 is out, with support for Polymorphic associations and auto-discovery of Ember Data models<a href="https://t.co/bzbhkjIECV">https://t.co/bzbhkjIECV</a> <a href="https://twitter.com/hashtag/EmberJS?src=hash">#EmberJS</a></p>&mdash; Sam Selikoff (@samselikoff) <a href="https://twitter.com/samselikoff/status/871868122764128260">June 5, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
