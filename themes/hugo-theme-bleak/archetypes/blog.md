@@ -12,4 +12,5 @@ menu= "main"
 author = ""
 featured = false
 description = ""
+files = ["/files/doc.pdf"]
 +++

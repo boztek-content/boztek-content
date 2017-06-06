@@ -12,6 +12,7 @@ tags = ["tag1", "tag2"]
 title = "Post title"
 [menu.main]
 weight = 3
+files = ["/files/doc.pdf"]
 
 +++
 ## First post!
