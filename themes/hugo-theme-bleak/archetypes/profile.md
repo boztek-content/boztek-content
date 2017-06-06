@@ -11,5 +11,5 @@ menu= ""		# set "main" to add this content to the main menu
 author = ""
 featured = false
 description = ""
-files = ["/files/doc.pdf"]
+files = []
 +++
